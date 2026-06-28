@@ -3,7 +3,6 @@
 """
 CAAC回补分析管道 (Strategy B)
 功能: 将CAAC高置信度预测回补到KEGG注释中，重新计算通路丰度与覆盖度
-作者: AI Assistant
 日期: 2026-04-25
 
 流程:
